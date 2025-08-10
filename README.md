@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hello World, 👋 I'm Noufal Radhitya<br><br>
-I am an active collage student in Universitas Negeri Semarang who seeks knowledge and experience in the field of computer science and information systems<br><br>I am usually active in learning coding and software development through online courses and several small projects<br>- 🔭 I’m currently studying on <a href="https://unnes.ac.id/">Universitas Negeri Semarang</a><br>- 🌱 I’m currently learning about information systems, and interest with Web Dev, Web3, and Cybersecurity<br>
+I am an active collage student in Universitas Negeri Semarang who seeks knowledge and experience in the field of computer science and information systems<br><br>I am usually active in learning coding and software development through online courses and several small projects<br>- 🔭 I’m currently studying on <a href="https://unnes.ac.id/">Universitas Negeri Semarang</a><br>- 🌱 I’m currently learning about information systems, and interest Product Engineer and Cybersecurity<br>
 
 
 ## 🌐 Socials:
