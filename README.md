@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003b00,100:00ff41&height=180&section=header&text=Noufal%20Radhitya&fontSize=65&fontColor=00ff41&fontAlignY=42&descAlignY=65&descColor=39ff14&animation=fadeIn&stroke=00ff41&strokeWidth=1" />
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C400&width=650&lines=Threat+Intelligence+and+Bug+Bounty+Hunter" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C400&width=500&lines=Threat+Intelligence+and+Bug+Bounty+Hunter" alt="Typing SVG" /></a>
 </div>
 
 ---
