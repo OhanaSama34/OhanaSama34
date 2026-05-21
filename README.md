@@ -52,10 +52,4 @@ Focus    : Threat Intelligence · Bug Bounty · Purple Team
 
 ---
 
-<div align="center">
-
-<img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:0d0d0d&height=120&section=footer" />
