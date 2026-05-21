@@ -1,21 +1,61 @@
-# 💫 About Me:
-### Hello World, 👋 I'm Noufal Radhitya<br><br>
-I am an active collage student in Universitas Negeri Semarang who seeks knowledge and experience in the field of computer science and information systems<br><br>I am usually active in learning coding and software development through online courses and several small projects<br>- 🔭 I’m currently studying on <a href="https://unnes.ac.id/">Universitas Negeri Semarang</a><br>- 🌱 I’m currently learning about information systems, and interest Web3 Product Engineer and Cybersecurity<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003b00,100:00ff41&height=180&section=header&text=Noufal%20Radhitya&fontSize=65&fontColor=00ff41&fontAlignY=42&descAlignY=65&descColor=39ff14&animation=fadeIn&stroke=00ff41&strokeWidth=1" />
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noufal-radhitya-239822223) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NafyCat69)
-
-
-# 💻 Tech Stack:
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=flat&logoColor=%23000000) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OhanaSama34&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OhanaSama34&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OhanaSama34&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C400&width=650&lines=Threat+Intelligence+and+Bug+Bounty+Hunter" alt="Typing SVG" /></a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OhanaSama34&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `$ whoami`
+
+```bash
+┌──(opelium㉿terminal)-[~]
+└─$ id
+
+Name     : Noufal Radhitya
+Role     : Threat Intelligence
+Location : Indonesia
+Focus    : Threat Intelligence · Bug Bounty · Purple Team
+```
+
+<br/>
+
+🔴 &nbsp;Currently Threat Intelligence at **PT ITSEC Asia Tbk**  
+
+<br clear="right"/>
+
+---
+
+### `$ ./stats.sh`
+
+<div align="center">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OhanaSama34&bg_color=0d0d0d&color=00ff41&line=39ff14&point=ffffff&area=true&hide_border=true&area_color=003b00&custom_title=Contribution%20Graph" />
+
+</div>
+
+---
+
+### `$ ping social --all`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noufal-radhitya-239822223/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nflrdtyafor.work@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=OhanaSama34&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:0d0d0d&height=120&section=footer" />
